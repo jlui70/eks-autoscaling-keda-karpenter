@@ -380,7 +380,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ### 🌟 Projeto Base
 
-Este projeto foi **baseado** no repositório [aws-samples/amazon-eks-scaling-with-keda-and-karpenter](aws-samples/amazon-eks-scaling-with-keda-and-karpenter) criado pela AWS.
+Este projeto foi **baseado** no repositório [aws-samples/amazon-eks-scaling-with-keda-and-karpenter](https://github.com/aws-samples/amazon-eks-scaling-with-keda-and-karpenter) criado pela AWS.
 
 ### ✨ Melhorias Implementadas
 
