@@ -392,7 +392,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ### 🌟 Projeto Base
 
-Este projeto foi **baseado** no repositório [aws-samples/amazon-eks-scaling-with-keda-and-karpenter](https://github.com/jlui70/amazon-eks-scaling-with-keda-and-karpenter) criado pela AWS.
+Este projeto foi **baseado** no repositório [aws-samples/amazon-eks-scaling-with-keda-and-karpenter](aws-samples/amazon-eks-scaling-with-keda-and-karpenter) criado pela AWS.
 
 ### ✨ Melhorias Implementadas
 
@@ -419,9 +419,7 @@ Agradecimentos especiais à comunidade open-source de:
 
 ---
 
-## 📞 Contato e Suporte
-
-### 💬 Precisa de Ajuda?
+## 📞 Contato
 
 - 🐛 **Issues:** [GitHub Issues](https://github.com/jlui70/eks-keda-karpenter-lab/issues)
 - 💡 **Discussões:** [GitHub Discussions](https://github.com/jlui70/eks-keda-karpenter-lab/discussions)
@@ -433,7 +431,7 @@ Se este projeto foi útil para você:
 - ⭐ Dê uma **estrela** no GitHub
 - 🔄 **Compartilhe** com a comunidade
 - 📹 **Inscreva-se** no canal do YouTube (link dos vídeos acima)
-- 🤝 **Contribua** com melhorias
+- 🤝 **Visite meu Porfólio e conheça outros projetos
 
 ---
 
