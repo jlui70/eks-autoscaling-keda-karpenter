@@ -189,7 +189,7 @@ export DYNAMODB_TABLE="payments"
 
 ```bash
 cd deployment
-sh ./_main.sh
+bash _main.sh
 ```
 
 Você verá um menu interativo:
