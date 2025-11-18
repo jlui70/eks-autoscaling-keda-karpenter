@@ -1,7 +1,13 @@
 # 🚀 EKS Autoscaling com KEDA e Karpenter
 
 <p align="center">
-  <img src="img/aws_kedakarpenter_arch_small.gif" alt="Arquitetura EKS KEDA Karpenter" />
+  <a href="img/aws_kedakarpenter_arch_small.gif">
+    <img src="img/aws_kedakarpenter_arch_static.png" alt="Arquitetura EKS KEDA Karpenter" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <em>👆 Clique na imagem para ver a animação completa do autoscaling em ação</em>
 </p>
 
 <p align="center">
@@ -18,7 +24,9 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto demonstra **autoscaling avançado no Kubernetes** em dois cenários práticos do mundo real:
+Este projeto demonstra **autoscaling avançado no Kubernetes** em dois cenários práticos do mundo real.
+
+> 🎬 **[Veja a animação completa da arquitetura](img/aws_kedakarpenter_arch_small.gif)** mostrando o autoscaling em ação desde o cenário inicial até o scaling completo com KEDA e Karpenter.
 
 ### 🎯 Cenários de Demonstração
 
