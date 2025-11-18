@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>👆 Clique na imagem para ver a animação completa do autoscaling em ação</em>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-EKS-orange?style=for-the-badge&logo=amazon-aws" />
