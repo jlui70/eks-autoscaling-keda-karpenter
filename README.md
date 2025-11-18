@@ -424,6 +424,11 @@ Agradecimentos especiais à comunidade open-source de:
 - 🐛 **Issues:** [GitHub Issues](https://github.com/jlui70/eks-keda-karpenter-lab/issues)
 - 💡 **Discussões:** [GitHub Discussions](https://github.com/jlui70/eks-keda-karpenter-lab/discussions)
 
+### 🌐 Conecte-se Comigo
+
+- 📹 **YouTube:** [DevOps Project](https://www.youtube.com/@devops-project)
+- 💼 **Portfólio:** [devopsproject.com.br](https://devopsproject.com.br/)
+
 ### 🌟 Gostou do Projeto?
 
 Se este projeto foi útil para você:
