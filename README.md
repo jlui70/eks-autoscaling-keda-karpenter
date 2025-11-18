@@ -195,21 +195,13 @@ bash _main.sh
 Você verá um menu interativo:
 
 ```
-╔════════════════════════════════════════════════╗
-║     EKS KEDA + Karpenter Deployment Menu      ║
-╚════════════════════════════════════════════════╝
-
-1) Deploy Tudo (Cluster + Karpenter + KEDA + Services)
-2) Apenas Cluster EKS
-3) Apenas Karpenter
-4) Apenas KEDA
-5) Apenas AWS Services (SQS + DynamoDB)
-6) Sair
-
-Escolha uma opção [1-6]:
+Please select the deployment modules:
+1. Press 1 to deploy only EKS cluster
+2. Press 2 to deploy EKS cluster with Karpenter
+3. Press 3 if you want to deploy EKS cluster, Karpenter & KEDA
 ```
 
-**Escolha opção `1`** para deployment completo.
+**Escolha opção `3`** para deployment completo (EKS + Karpenter + KEDA + Serviços AWS).
 
 ⏱️ **Tempo total:** ~20-25 minutos
 
