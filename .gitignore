@@ -171,3 +171,8 @@ httpscaledobject-ecommerce-ui.yaml
 ingress-original-backup.yaml
 ecommerce-ui-fix.yaml
 grafana-ingress.yaml
+
+# Arquivos de documentação interna (não publicar)
+ARCHITECTURE.md
+PUBLICAR-GITHUB.md
+SUMARIO-PROJETO-GITHUB.md
