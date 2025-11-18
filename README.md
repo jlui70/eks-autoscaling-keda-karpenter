@@ -213,8 +213,6 @@ Escolha uma opção [1-6]:
 
 ⏱️ **Tempo total:** ~20-25 minutos
 
-📚 **Guia passo a passo detalhado:** [docs/02-instalacao-passo-a-passo.md](docs/02-instalacao-passo-a-passo.md)
-
 ---
 
 ## 🧪 Executando os Testes
@@ -235,8 +233,8 @@ cd tests
 
 **Monitorar:**
 - Terminal: métricas em tempo real
-- Grafana: `http://<grafana-dns>` (veja [docs/05-monitoramento.md](docs/05-monitoramento.md))
-- kubectl: `kubectl get pods -n keda-test -w`
+- Grafana: `http://<grafana-dns>`
+- - kubectl: `kubectl get pods -n keda-test -w`
 
 ### 🛍️ Teste 2: HTTP Black Friday
 
