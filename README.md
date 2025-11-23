@@ -23,7 +23,7 @@
 
 Este projeto demonstra **autoscaling avançado no Kubernetes** em dois cenários práticos do mundo real.
 
-> 🎬 **[Veja a animação completa da arquitetura](img/aws_kedakarpenter_arch_small.gif)** mostrando o autoscaling em ação desde o cenário inicial até o scaling completo com KEDA e Karpenter.
+> 🎬 **[Veja a animação completa da arquitetura](img/aws_kedakarpenter_arch_small.gif)** 
 
 ### 🎯 Cenários de Demonstração
 
