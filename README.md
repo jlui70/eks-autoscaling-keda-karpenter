@@ -41,8 +41,8 @@ Este projeto demonstra **autoscaling avançado no Kubernetes** em dois cenários
 
 ### 🎬 Vídeos das Demos
 
-- 📹 **[Demo 1: SQS Scaling](https://www.youtube.com/seu-video-1)** - Processamento de 10.000 mensagens
-- 📹 **[Demo 2: HTTP Black Friday](https://www.youtube.com/seu-video-2)** - Simulação de pico de tráfego
+- 📹 **[Demo 1: SQS Scaling](https://youtu.be/hgcsLmNQah4)** - Processamento de 10.000 mensagens
+- 📹 **[Demo 2: HTTP Black Friday](https://youtu.be/FqtcLzMdIEs)** - Simulação de pico de tráfego
 - 📹 **[Apresentação Completa](https://www.youtube.com/seu-video-3)** - Walkthrough do lab completo
 
 > 💡 **Nota:** Adicione os links dos seus vídeos do YouTube acima
