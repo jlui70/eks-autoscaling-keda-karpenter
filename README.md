@@ -41,8 +41,8 @@ Este projeto demonstra **autoscaling avançado no Kubernetes** em dois cenários
 
 ### 🎬 Vídeos das Demos
 
-- 📹 **[Lab Keda & Karpenter - Simulação Black Friday - SQS Scaling](https://youtu.be/hgcsLmNQah4)** - Processamento de 10.000 mensagens
-- 📹 **[Lab Keda & Karpenter - Simulção Black Friday - HTTP Scaling](https://youtu.be/FqtcLzMdIEs)** - Simulação de pico de tráfego
+- 📹 **[Lab Keda & Karpenter - Simulação Black Friday - SQS Scaling](https://youtu.be/hgcsLmNQah4)** - Envio 1000+ mensagens para a fila SQS - Scaling Massivo
+- 📹 **[Lab Keda & Karpenter - Simulção Black Friday - HTTP Scaling](https://youtu.be/FqtcLzMdIEs)** - Simulação de 1000 usuários simultâneos acessando um e-commerce
 - 📹 **[Apresentação Completa](https://www.youtube.com/seu-video-3)** - Walkthrough do lab completo
 
 > 💡 **Nota:** Adicione os links dos seus vídeos do YouTube acima
