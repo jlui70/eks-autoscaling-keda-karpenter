@@ -6,6 +6,11 @@ cluster-state-backup/
 *.bak
 *.old
 
+# Imagens não utilizadas (mantidas localmente)
+img/Keda.gif
+img/aws_kedakarpenter_arch.mp4
+img/aws_kedakarpenter_arch_small.gif.original
+
 # Jupyter Notebooks
 *.ipynb
 .ipynb_checkpoints/
@@ -178,3 +183,6 @@ PUBLICAR-GITHUB.md
 SUMARIO-PROJETO-GITHUB.md
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
+aws_kedakarpenter_arch_small.gif.original
+aws_kedakarpenter_arch.mp4
+Keda.gif
